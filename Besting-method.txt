@@ -1,0 +1,8 @@
+Minimizing the sum of distances within clusters:
+
+For each iteration of the 30 iterations, do:
+
+1- Calculate the distances from each point to its cluster center.
+2- Sum these distances
+
+Finaly, choose the iteration with the minimum sum of distances.
